@@ -1,7 +1,6 @@
 # akilli-slot-kapi-tahsis-sistemi
 Havalimanı Operasyonel Veritabanı (AODB) - Akıllı Slot ve Kapı Tahsis Yönetim Sistemi
 # Haftalık Çalışma Günlüğü
-
 # 1 ve 2. Hafta
 - Proje konusu seçildi ve sistem gereksinimleri belirlendi.
 - GitHub reposu açıldı.
